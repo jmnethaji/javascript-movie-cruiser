@@ -1,0 +1,21 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "posterPath": "../images/camara-reels.svg"
+    },
+    {
+      "id": 2,
+      "title": "The Matrix",
+      "posterPath": "camara-reels.svg"
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "posterPath": "interstellar.jpg"
+    }
+  ],
+  "favourites": [
+  ]
+}
